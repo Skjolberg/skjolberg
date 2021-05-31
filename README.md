@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Skjolberg/skjolberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,13 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hola! 😄 
+
+Hola! 👋
 
 Mi nombre es Daniel Vázquez, nacido en Sevilla (España) y soy un programador jóven en este campo.
 
 El código que suelo realizar está basado en Java (Back end) aunque tambien manejo un poco de HTML, CSS, Bootstrap, XML (Front end).
 
 Puedes obtener mas información sobre mi:
-•	[URL=https://www.linkedin.com/in/danielvazquezmunoz/]Linkedin[/URL]
-•	Fgfg
-•	Fg
+
+•	https://www.linkedin.com/in/danielvazquezmunoz
