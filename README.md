@@ -19,6 +19,9 @@ Mi nombre es Daniel Vázquez, nacido en Sevilla (España) y soy un programador j
 
 El código que suelo realizar está basado en Java (Back end) aunque tambien manejo un poco de HTML, CSS, Bootstrap, XML (Front end).
 
+
+
+
 Puedes obtener mas información sobre mi:
 
 •	https://www.linkedin.com/in/danielvazquezmunoz
