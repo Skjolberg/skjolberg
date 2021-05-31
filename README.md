@@ -15,13 +15,17 @@ Here are some ideas to get you started:
 
 Hola! 👋
 
-Mi nombre es Daniel Vázquez, nacido en Sevilla (España) y soy un programador jóven en este campo.
+Mi nombre es **Daniel Vázquez**, nacido en Sevilla (España) y soy un programador jóven en este campo.
 
-El código que suelo realizar está basado en Java (Back end) aunque tambien manejo un poco de HTML, CSS, Bootstrap, XML (Front end).
+El código que suelo realizar está basado en:
 
+* Back end
+  * Java, mySQL
+* Front end
+  * HTML, Bootstrap, CSS, XML
 
 
 
 Puedes obtener mas información sobre mi:
 
-•	https://www.linkedin.com/in/danielvazquezmunoz
+•	[Linkedin](https://www.linkedin.com/in/danielvazquezmunoz)
