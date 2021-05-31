@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 Hola! 👋
 
-Mi nombre es **Daniel Vázquez**, nacido en Sevilla (España) y soy un programador jóven en este campo.
+:bust_in_silhouette: Mi nombre es **Daniel Vázquez**, nacido en Sevilla (España) y soy un programador jóven en este campo.
 
-El código que suelo realizar está basado en:
+:technologist: El código que suelo realizar está basado en:
 
 * Back end
   * Java, mySQL
