@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hola! 👋
+Hi! 👋
 
-:bust_in_silhouette: Mi nombre es **Daniel Vázquez**, nacido en Sevilla (España) y soy un programador jóven en este campo.
+:bust_in_silhouette: My name is **Daniel Vázquez**, born in Seville (Spain) and i am a young programmer in this field.
 
 :technologist: El código que suelo realizar está basado en:
 
@@ -26,6 +26,6 @@ Hola! 👋
 
 
 
-Puedes obtener mas información sobre mi:
+More info:
 
 •	[Linkedin](https://www.linkedin.com/in/danielvazquezmunoz)
