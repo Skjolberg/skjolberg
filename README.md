@@ -17,7 +17,7 @@ Hi! 👋
 
 :bust_in_silhouette: My name is **Daniel Vázquez**, born in Seville (Spain) and i am a young programmer in this field.
 
-:technologist: El código que suelo realizar está basado en:
+:technologist: The code I usually make is based on:
 
 * Back end
   * Java, mySQL
