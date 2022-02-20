@@ -19,10 +19,8 @@ Hi! 👋
 
 :technologist: The code I usually make is based on:
 
-* Back end
-  * Java, mySQL
-* Front end
-  * HTML, Bootstrap, CSS, XML
+* Skills:
+  * Java, SQL, HTML, Bootstrap, CSS, XML, WPF, Python, SAP.
 
 
 
