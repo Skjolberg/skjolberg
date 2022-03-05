@@ -19,8 +19,7 @@ Hi! 👋
 
 :technologist: The code I usually make is based on:
 
-* Skills:
-  * Java, SQL, HTML, Bootstrap, CSS, XML, WPF, Python, SAP.
+* Java, SQL, HTML, Bootstrap, CSS, XML, WPF, Python, SAP.
 
 
 
