@@ -19,7 +19,7 @@ Hi! 👋
 
 :technologist: The code I usually make is based on:
 
-* Java, SQL, HTML, Bootstrap, CSS, XML, WPF, Python, SAP, JS.
+* Java, SQL, HTML, Bootstrap, CSS, XML, WPF, Python, Abap, JS.
 
 
 
