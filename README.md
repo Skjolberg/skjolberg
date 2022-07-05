@@ -16,5 +16,7 @@ More info:
 [![Visits](https://badges.pufler.dev/visits/Skjolberg/Skjolberg)](https://github.com/Skjolberg)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Skjolberg&repo=github-readme-stats&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&card_width=1080)](https://github.com/Skjolberg)">
+  <a href="https://github.com/Skjolberg">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Skjolberg&repo=skjolberg&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&card_width=1080)]">
+  </a>
 </div>
