@@ -2,10 +2,6 @@ Hi! 👋
 
 :bust_in_silhouette: My name is **Daniel Vázquez**, born in Seville (Spain) and i am a young programmer in this field.
 
-:technologist: The code I usually make is based on:
-
-* Java, SQL, HTML, Bootstrap, CSS, XML, WPF, Python, Abap, JS.
-
 
 <div>
 <p>
