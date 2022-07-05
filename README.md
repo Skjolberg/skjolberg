@@ -30,4 +30,6 @@ More info:
 [![Repos](https://badges.pufler.dev/repos/Skjolberg/)](https://github.com/Skjolberg)
 [![Visits](https://badges.pufler.dev/visits/Skjolberg/Skjolberg)](https://github.com/Skjolberg)
 
-[![SKJOLBERG GitHub stats](https://github-readme-stats.vercel.app/api?username=Skjolberg&repo=github-readme-stats&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&card_width=750)](https://github.com/Skjolberg/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Skjolberg&repo=github-readme-stats&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&card_width=1080)]">
+</div>
