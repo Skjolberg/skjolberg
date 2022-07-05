@@ -29,4 +29,4 @@ More info:
 
 [![Repos](https://badges.pufler.dev/repos/Skjolberg/)](https://github.com/Skjolberg)
 [![Visits](https://badges.pufler.dev/visits/Skjolberg/Skjolberg)](https://github.com/Skjolberg)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skjolberg)](https://github.com/Skjolberg/github-readme-stats)
