@@ -29,6 +29,6 @@ Hi! 👋
 
 <div align="center">
   <a href="https://github.com/Skjolberg">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Skjolberg&repo=skjolberg&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&card_width=750">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Skjolberg&repo=skjolberg&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&card_width=1080">
   </a>
 </div>
