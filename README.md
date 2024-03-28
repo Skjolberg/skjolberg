@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi! 👋
 
-<!--
-**Skjolberg/skjolberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:bust_in_silhouette: My name is **Daniel**, born in Spain and i am a young programmer in this field.
 
-Here are some ideas to get you started:
+<p>
+  <b>
+    More info:
+  </b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/Skjolberg">
+    <img src="https://komarev.com/ghpvc/?username=Skjolberg&style=for-the-badge">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Skjolberg">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Skjolberg&repo=skjolberg&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&card_width=1080">
+  </a>
+</div>
